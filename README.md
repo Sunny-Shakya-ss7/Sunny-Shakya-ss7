@@ -34,9 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunny-shakya-ss7&show_icons=true&locale=en" alt="sunny-shakya-ss7" /></p>
 
-### My Github Stats (🤣😂😂)
-
-![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunny-shakya-ss7&show_icons=true&theme=vue-dark&hide=stars,prs&count_private=true)
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunny-shakya-ss7&" alt="sunny-shakya-ss7" /></p>
