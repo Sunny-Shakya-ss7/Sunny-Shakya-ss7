@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunny-shakya-ss7" alt="sunny-shakya-ss7" /></a> </p>
 
-- 🔭 I’m currently working at **101InfoTech**
+- 🔭 I’m the co-founder of **101InfoTech**
 
 - 🌱 I’m currently learning **React, Laravel, Flutter**
 
