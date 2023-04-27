@@ -9,7 +9,7 @@
 
 - 🔭 I’m the co-founder of **101InfoTech**
 
-- 🌱 I’m currently learning **React, Laravel, Flutter**
+- 🌱 I’m currently learning **React, Laravel, Flutter, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sunny-Shakya-ss7?tab=repositories](https://github.com/Sunny-Shakya-ss7?tab=repositories)
 
