@@ -7,7 +7,6 @@
   </a>
 </p>
 
-- 🔭 I’m the co-founder of **101InfoTech**
 
 - 🌱 I’m currently learning **React, Laravel, Flutter, Machine Learning**
 
@@ -17,7 +16,6 @@
 
 - 📫 How to reach me **sunnyshakya72@gmail.com**
 
-- ⚡ Fun fact **Don ho Don 😎😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
